@@ -7,8 +7,6 @@ const Home = lazy(() => import('../Page/Home'));
 const Favorites = lazy(() => import('../Page/Favorites'));
 const Catalog = lazy(() => import('../Page/Catalog'));
 
-// const WelcomePage = lazy(() => import('../pages/WelcomePage/WelcomePage'));
-
 function App() {
   return (
     <>
