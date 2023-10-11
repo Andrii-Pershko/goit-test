@@ -1,13 +1,13 @@
-import { Outlet } from "react-router-dom";
-import { Suspense } from "react";
+import { Outlet } from 'react-router-dom';
+import { Suspense } from 'react';
 import {
   Container,
   Header,
   ImgLogo,
   LogoNavLink,
   StyledLink,
-} from "./Layout.styled";
-import logo from "../../img/logo.svg";
+} from './Layout.styled';
+import logo from '../../img/logo.svg';
 
 const Layout = () => {
   return (
@@ -22,8 +22,9 @@ const Layout = () => {
           <StyledLink to="/favorites">Favorites</StyledLink>
         </nav>
       </Header>
-      <Suspense fallback={<h1>loading</h1>}></Suspense>
-      <Outlet />
+      <Suspense fallback={<h1>loading</h1>}>
+        <Outlet />
+      </Suspense>
     </Container>
   );
 };
