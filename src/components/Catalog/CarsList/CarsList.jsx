@@ -24,7 +24,7 @@ const CarsList = () => {
     }
   }, [dispatch, page]);
 
-  const handleLoadMoreCare = () => {
+  const handleLoadMoreCars = () => {
     dispatch(getMoreCars(page + 1));
     setPage(page + 1);
   };
@@ -36,12 +36,12 @@ const CarsList = () => {
   return (
     <>
       <CarList>
-        {[...cars].map((car, index) => (
+        {cars.map((car, index) => (
           <CarCard key={index} car={car} />
         ))}
       </CarList>
       {pagination ? (
-        <LoadMoreBtn type="button" onClick={handleLoadMoreCare}>
+        <LoadMoreBtn type="button" onClick={handleLoadMoreCars}>
           Load more
         </LoadMoreBtn>
       ) : document.body.scrollTop > 20 ||
