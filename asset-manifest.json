@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/goit-test/static/css/main.d2e1aac9.css",
-    "main.js": "/goit-test/static/js/main.d55b50bb.js",
+    "main.js": "/goit-test/static/js/main.44196a27.js",
     "static/js/394.bec19d09.chunk.js": "/goit-test/static/js/394.bec19d09.chunk.js",
-    "static/js/282.1fbf5b95.chunk.js": "/goit-test/static/js/282.1fbf5b95.chunk.js",
-    "static/js/230.35ef5887.chunk.js": "/goit-test/static/js/230.35ef5887.chunk.js",
+    "static/js/461.0936da7e.chunk.js": "/goit-test/static/js/461.0936da7e.chunk.js",
+    "static/js/230.ba7282a9.chunk.js": "/goit-test/static/js/230.ba7282a9.chunk.js",
     "static/js/705.066f9f0b.chunk.js": "/goit-test/static/js/705.066f9f0b.chunk.js",
-    "static/js/503.acfda3c4.chunk.js": "/goit-test/static/js/503.acfda3c4.chunk.js",
+    "static/js/503.5a199fb0.chunk.js": "/goit-test/static/js/503.5a199fb0.chunk.js",
     "static/media/Montserrat-VariableFont_wght.ttf": "/goit-test/static/media/Montserrat-VariableFont_wght.7e687123cd4528224ce5.ttf",
     "static/media/Manrope-VariableFont_wght.ttf": "/goit-test/static/media/Manrope-VariableFont_wght.4afb283bba326df875f6.ttf",
     "static/media/skilet.jpg": "/goit-test/static/media/skilet.404986c47be843ec66e0.jpg",
@@ -18,15 +18,15 @@
     "static/media/x-mark.svg": "/goit-test/static/media/x-mark.f3cbdd58dc25ca7cbb3d242106b56fb9.svg",
     "static/media/chevron-down.svg": "/goit-test/static/media/chevron-down.24cd320d509ea2ebbeb4265f8030bafb.svg",
     "main.d2e1aac9.css.map": "/goit-test/static/css/main.d2e1aac9.css.map",
-    "main.d55b50bb.js.map": "/goit-test/static/js/main.d55b50bb.js.map",
+    "main.44196a27.js.map": "/goit-test/static/js/main.44196a27.js.map",
     "394.bec19d09.chunk.js.map": "/goit-test/static/js/394.bec19d09.chunk.js.map",
-    "282.1fbf5b95.chunk.js.map": "/goit-test/static/js/282.1fbf5b95.chunk.js.map",
-    "230.35ef5887.chunk.js.map": "/goit-test/static/js/230.35ef5887.chunk.js.map",
+    "461.0936da7e.chunk.js.map": "/goit-test/static/js/461.0936da7e.chunk.js.map",
+    "230.ba7282a9.chunk.js.map": "/goit-test/static/js/230.ba7282a9.chunk.js.map",
     "705.066f9f0b.chunk.js.map": "/goit-test/static/js/705.066f9f0b.chunk.js.map",
-    "503.acfda3c4.chunk.js.map": "/goit-test/static/js/503.acfda3c4.chunk.js.map"
+    "503.5a199fb0.chunk.js.map": "/goit-test/static/js/503.5a199fb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d2e1aac9.css",
-    "static/js/main.d55b50bb.js"
+    "static/js/main.44196a27.js"
   ]
 }
